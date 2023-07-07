@@ -161,6 +161,7 @@ void func()
 	uint8_t value,pdate[2];
 	value = 1;
 	pdate[0] = 2;
+	pdate[1]ECRead(value);
 	return;
 }
 //lable001
