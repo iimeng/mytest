@@ -155,6 +155,12 @@ uint8_t ECRead(
   //
   return GetDataFromEc (EC_C_PORT);
 }
+//lable001
+void func()
+{
+	return;
+}
+//lable001
 int main(int argc, char **argv)
 {
     uint8_t value,pdate[2];
